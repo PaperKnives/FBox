@@ -107,6 +107,7 @@ class AccountSetUp(ctk.CTkToplevel):
                 messagebox.showerror('passwords dont match',
                                      "Please try again"
                                      )
+            self.withdraw()
         except Exception as e:
             messagebox.showerror("Account set up failed",
                                  f"{e}"
@@ -184,7 +185,7 @@ class LoginApp(ctk.CTkToplevel):
         """Create_new executed when 'Create new account' is clicked,
         user is redirected to the AccountSetUp window
         """
-        self.withdraw()
+        #self.withdraw()
         AccountSetUp()
 
 
