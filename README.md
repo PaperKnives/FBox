@@ -12,7 +12,7 @@ came to mind, Falls short to current industry standards? Maybe. Doesn't follow b
 with a little hard work and some more experience, maybe a few contributions, this could become a cool project 
 with alot of potential. 
 
-Built in python version 3.11.4
+Built and tested on Windows, Python version 3.11.4
 
 ### List of installs: 
 ```
