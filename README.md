@@ -28,15 +28,22 @@ User will then need to login using the newly created account, to do so the user 
 click the "Submit acc info" button (currently).
 Click the Submit button.
 
+![Screenshot 2024-05-22 210010](https://github.com/PaperKnives/FBox/assets/151085561/f690fc91-c07e-49cb-9382-cd3a587a7724)
+
 With successful login, User will be directed to the main program window.
 
 To input a file for encryption and storage, the user needs to copy and paste the file path into the top entry field.
+
 ***Make sure to delete the parentheis from a windows file path (see known issues)***
+
+![Screenshot 2024-05-22 210121](https://github.com/PaperKnives/FBox/assets/151085561/e2119184-97ae-41ee-bbf4-16d5dfa3a9d1)
 
 User then enters a nickname for the file.
 Smash that "Encrypt File" button.
 To view a list of stored file nicknames crush the "View Files" button.
 This will then display the nicknames in the listbox.
+
+![Screenshot 2024-05-22 210156](https://github.com/PaperKnives/FBox/assets/151085561/97e59bdc-1b32-4f5b-830c-00caa9554298)
 
 To decrypt a file and view it, select the desired file nickname in the listbox and simply hit "Decrypt Selected"
 The file will then be able to be viewed with a selected default viewer.
